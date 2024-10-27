@@ -61,6 +61,9 @@ This agent’s clustering results are communicated with the main agent to inform
 # 5. Main Agent (langgraph agent)
 The two agents collaborate by sharing insights, enabling a unified prediction of trends. This system design enhances predictive capabilities by combining long-term statistical clustering with real-time social sentiment analysis. THe insights are transferred to this langgraph agent which uses a weighted algorithm to predict a common predicted trends from long term and short term prediction at real-time.
 
+# Architecture
+
+
 # Data Sources
 
 Twitter API: For engagement metrics, follower count, and other social signals.
