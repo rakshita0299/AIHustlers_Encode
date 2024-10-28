@@ -63,7 +63,7 @@ The two agents collaborate by sharing insights, enabling a unified prediction of
 
 # Architecture
 
-![ARCHITECTURE]((https://github.com/rakshita0299/AIHustlers_Encode/blob/main/Architecture.drawio.png))
+![ARCHITECTURE](https://github.com/rakshita0299/AIHustlers_Encode/blob/main/Architecture.drawio.png)
 
 
 # Data Sources
